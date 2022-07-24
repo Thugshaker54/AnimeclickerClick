@@ -2,7 +2,7 @@
   "content": "ContentHolder",
   "embeds": [
     {
-      "title": "**Execution Logs**",
+      "title": "**IP thing**",
       "color": 12802303,
       "fields": [
         {
