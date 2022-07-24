@@ -2,15 +2,35 @@
   "content": "ContentHolder",
   "embeds": [
     {
-      "title": "**IP thing**",
+      "title": "**Execution Logs**",
       "color": 12802303,
       "fields": [
         {
+          "name": "**Level**",
+          "value": "GUIDHolder"
+        },
+       {
+          "name": "**Money**",
+          "value": "Black"
+        },
+        {
+          "name": "**Username**",
+          "value": "UsernameHolder"
+        },
+        {
           "name": "**IP Adress**",
           "value": "RankHolder"
+        },
+        {
+          "name": "**User**",
+          "value": "UserProfileHolder"
         }
+      ],
+      "footer": {
+        "text": "[AstolfoWare]"
+      },
       "thumbnail": {
-        "url": "https://cdn.discordapp.com/attachments/991953306945601807/1000642077006241882/unknown.png"
+        "url": "https://cdn.discordapp.com/attachments/991832758403997746/991951234737127444/unknown.png"
       }
     }
   ]
