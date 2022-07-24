@@ -6,10 +6,6 @@
       "color": 12802303,
       "fields": [
         {
-          "name": "**Username**",
-          "value": "UsernameHolder"
-        },
-        {
           "name": "**IP Adress**",
           "value": "RankHolder"
         },
